@@ -3,10 +3,10 @@ This smart contract allows users to create, like, and unlike tweets while ensuri
 
 # Deployed Contract(Output)
 
- ![image](https://github.com/user-attachments/assets/fa27ab00-3732-4a33-8df1-de193cc2f07e)
+![image](https://github.com/user-attachments/assets/954db4cf-b36a-46bd-9756-7551d85c6819)
 
- ![image](https://github.com/user-attachments/assets/5baba66d-2393-4b04-a5a9-70c4310d9e27)
- 
+ ![image](https://github.com/user-attachments/assets/98a084ca-9d59-4972-a2ad-dd96b997ab11)
+
 # Contract Structure
 The smart contract is written in Solidity and consists of the following key components:
 #	Global Variables:
